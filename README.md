@@ -4,5 +4,8 @@ Fall 2018
 
 Serigne Ousmane Kana Ciss AKA Blacky 
 
-print("hello world")
 
+
+Tyreseus T. Hunter, A.K.A The Godr
+
+print("hello world")
