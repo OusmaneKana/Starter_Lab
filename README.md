@@ -4,3 +4,4 @@ Fall 2018
 
 Serigne Ousmane Kana Ciss AKA Blacky 
 
+Tyreseus T. Hunter, A.K.A The God
